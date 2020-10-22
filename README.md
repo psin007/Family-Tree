@@ -18,4 +18,4 @@ GET_RELATIONSHIP "Name" "Relationship"
 eg: Input -  GET_RELATIONSHIP Pooja Siblings
 Output - Victoire Dominique Louis
 Followig figure depicts sample family tree:
-(family tree.JPG)
+(familyTree.JPG)

@@ -1,0 +1,11 @@
+coreImplementation\QueryParser$1.class
+enums\Gender.class
+enums\Message.class
+coreImplementation\QueryResultPrinter.class
+coreImplementation\RelationFinder.class
+coreImplementation\RelationFinder$1.class
+coreImplementation\Application.class
+coreImplementation\BuildFamilyTree.class
+coreImplementation\QueryParser.class
+enums\RelationName.class
+model\Person.class

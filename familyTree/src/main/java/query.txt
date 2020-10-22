@@ -1,0 +1,39 @@
+ADD_CHILD Flora Aster Female 
+ADD_CHILD Flora James Male
+ADD_CHILD Bill Rahul Male  
+ADD_CHILD Molly Radha Female
+ADD_CHILD Charlie Neeti Female
+ADD_CHILD Helen Ankurita Female
+ADD_CHILD Helen Anku Male
+ADD_CHILD Ginerva Rohan Male
+ADD_CHILD Ginerva Reji Male
+GET_RELATIONSHIP William Paternal_Uncle
+GET_RELATIONSHIP Aster Paternal_Uncle
+GET_RELATIONSHIP Molly Paternal_Uncle
+GET_RELATIONSHIP Arthur Paternal_Uncle
+GET_RELATIONSHIP Bill Paternal_Uncle
+GET_RELATIONSHIP Victoire Paternal_Uncle
+GET_RELATIONSHIP Victoire Maternal_Uncle
+GET_RELATIONSHIP Darcy Maternal_Uncle
+GET_RELATIONSHIP Lily Maternal_Uncle
+GET_RELATIONSHIP Draco Maternal_Uncle
+GET_RELATIONSHIP Draco Brother_In_Law
+GET_RELATIONSHIP Dracoy Brother_In_Law
+GET_RELATIONSHIP Alice Brother_In_Law
+GET_RELATIONSHIP Ted Sister_In_Law
+GET_RELATIONSHIP Teddy Sister_In_Law
+GET_RELATIONSHIP Darcy Sister_In_Law
+GET_RELATIONSHIP Arthur Sister_In_Law
+GET_RELATIONSHIP Darcy Son
+GET_RELATIONSHIP Lily Daughter
+GET_RELATIONSHIP Alice Son
+GET_RELATIONSHIP Alice Daughter
+GET_RELATIONSHIP Louis Siblings
+GET_RELATIONSHIP Flora Siblings
+GET_RELATIONSHIP Lily Siblings
+GET_RELATIONSHIP Margret Siblings
+
+
+
+
+

@@ -16,6 +16,6 @@ Output - CHILD_ADDED<br/>
 GET_RELATIONSHIP "Name" "Relationship"<br/>
 eg: Input -  GET_RELATIONSHIP Pooja Siblings<br/>
 Output - Victoire Dominique Louis <br/>
-Followig figure depicts sample family tree:<br/>
+Following figure depicts sample family tree:<br/>
 ![Screenshot of family tree](familyTree.JPG)
 

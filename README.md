@@ -9,13 +9,13 @@ The program reads text from a text file as a parameter while running the applica
 Relationship defined are: 
 Son, Daughter, Siblings, Husband, Wife, Father, Mother, Brother, Sister, Paternal_Uncle,Maternal_Uncle,Paternal_Aunt,Maternal_Aunt,Sister_In_Law,Brother_In_Law
 
-Sample input/Output:
-ADD_CHILD "MothersName" "ChildName" "Gender"
-eg: Input - ADD_CHILD Flora Pooja Female
-Output - CHILD_ADDED
-<br/>
-GET_RELATIONSHIP "Name" "Relationship"
-eg: Input -  GET_RELATIONSHIP Pooja Siblings
-Output - Victoire Dominique Louis
-Followig figure depicts sample family tree:
-(familyTree.JPG)
+Sample input/Output: <br/>
+ADD_CHILD "MothersName" "ChildName" "Gender"<br/>
+eg: Input - ADD_CHILD Flora Pooja Female <br/>
+Output - CHILD_ADDED<br/>
+GET_RELATIONSHIP "Name" "Relationship"<br/>
+eg: Input -  GET_RELATIONSHIP Pooja Siblings<br/>
+Output - Victoire Dominique Louis <br/>
+Followig figure depicts sample family tree:<br/>
+![Screenshot of family tree](familyTree.JPG)
+
